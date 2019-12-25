@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Marvel-api/static/js/main.d089fa4b.chunk.js",
+    "main.js.map": "/Marvel-api/static/js/main.d089fa4b.chunk.js.map",
+    "runtime-main.js": "/Marvel-api/static/js/runtime-main.0e31f803.js",
+    "runtime-main.js.map": "/Marvel-api/static/js/runtime-main.0e31f803.js.map",
+    "static/js/2.999c1e0a.chunk.js": "/Marvel-api/static/js/2.999c1e0a.chunk.js",
+    "static/js/2.999c1e0a.chunk.js.map": "/Marvel-api/static/js/2.999c1e0a.chunk.js.map",
+    "index.html": "/Marvel-api/index.html",
+    "precache-manifest.d2a1a7403b5d3fa6dc67a71b6915af7e.js": "/Marvel-api/precache-manifest.d2a1a7403b5d3fa6dc67a71b6915af7e.js",
+    "service-worker.js": "/Marvel-api/service-worker.js",
+    "static/js/2.999c1e0a.chunk.js.LICENSE": "/Marvel-api/static/js/2.999c1e0a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e31f803.js",
+    "static/js/2.999c1e0a.chunk.js",
+    "static/js/main.d089fa4b.chunk.js"
+  ]
+}
